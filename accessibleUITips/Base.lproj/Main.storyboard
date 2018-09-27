@@ -32,14 +32,14 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JRf-32-2ud">
                                                 <rect key="frame" x="0.0" y="43.5" width="359" height="108.5"/>
-                                                <string key="text">As a developer it is key that we are inclusive of our users. We want to ensure that everyone who uses your website or application has an exceptional experince regardless of the ability level. </string>
+                                                <string key="text">As a developer, it is critical that we are inclusive of our users. We want to ensure that everyone who uses your website or application has an exceptional experience regardless of the ability level. </string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Y9s-sz-bZX">
-                                                <rect key="frame" x="0.0" y="164" width="346" height="86.5"/>
-                                                <string key="text">The list below is a great start to learning how to make digital more accessible to everyone. Following the key concepts will set the foundation of your accessiblity.</string>
+                                                <rect key="frame" x="0.0" y="164" width="348" height="86.5"/>
+                                                <string key="text">The list below is an excellent start to learning how to make digital more accessible to everyone. Following the key concepts will set the foundation of your accessibility.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -251,7 +251,7 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I9D-di-MH6">
                                                 <rect key="frame" x="0.0" y="43.5" width="359" height="152.5"/>
-                                                <string key="text">WCAG stands for the Web Content Accessibility Guidelines. The international list of guidlines developed by  W3C; The World Wide Web Consortuim Web Accessibility Initiative. WCAG is the industry standard for how to make your digital media accessible to everyone. </string>
+                                                <string key="text">WCAG stands for the Web Content Accessibility Guidelines. The international list of guidelines developed by  W3C; The World Wide Web Consortium Web Accessibility Initiative. WCAG is the industry standard for how to make your digital media accessible to everyone. </string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -326,7 +326,7 @@
                                 <rect key="frame" x="0.0" y="64" width="375" height="603"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="hBI-Aj-gjo">
-                                        <rect key="frame" x="12" y="12" width="351" height="1000.5"/>
+                                        <rect key="frame" x="12" y="12" width="351" height="1022.5"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Why Is Proper Heading Structure Important?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8qg-7C-r72">
                                                 <rect key="frame" x="0.0" y="0.0" width="351" height="63.5"/>
@@ -335,123 +335,123 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lNh-5l-lEB">
-                                                <rect key="frame" x="0.0" y="75.5" width="351" height="152.5"/>
-                                                <string key="text">Proper heading stucture is important becuase it helps all users naviagate information.  Think of a memo and how sighted users scan the headings to look for information they are looking for. Assistive Technology users use the heading stucture simlar to a memo to navigate content.</string>
+                                                <rect key="frame" x="0.0" y="75.5" width="351" height="174.5"/>
+                                                <string key="text">Proper heading structure is important because it helps all users navigate information.  Think of a memo. Each heading is easily scannable. Sometimes Screen Reader Users navigate web pages by skipping to each heading level. Without proper heading structure, it makes it hard on the user to browse the webpage quickly.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZCY-6y-gIN">
-                                                <rect key="frame" x="0.0" y="240" width="351" height="130.5"/>
-                                                <string key="text">Each webpage should contain one H1 at the top of all headings.  The h1 denotes the overall meaning of the webpage. Each heading level goes a subtopic deeper in concective order, allowing for screen reader users to quickly move through content.</string>
+                                                <rect key="frame" x="0.0" y="262" width="351" height="130.5"/>
+                                                <string key="text">Each webpage should contain one H1 at the top of all headings.  The h1 denotes the overall meaning of the webpage. Each heading level goes a subtopic deeper in consecutive order, allowing for screen reader users to quickly move through content.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Bad Heading Structure" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nyc-AJ-AC1">
-                                                <rect key="frame" x="0.0" y="382.5" width="351" height="31.5"/>
+                                                <rect key="frame" x="0.0" y="404.5" width="351" height="31.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&lt;h1&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LKs-fO-K5O">
-                                                <rect key="frame" x="0.0" y="426" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="448" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level one"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    &lt;h3&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pep-hc-675">
-                                                <rect key="frame" x="0.0" y="458.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="480.5" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level three"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="        &lt;h5&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6bt-Da-n5D">
-                                                <rect key="frame" x="0.0" y="491" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="513" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level five"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    &lt;h2&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h9i-4H-Jpr" userLabel="&lt;h2&gt;">
-                                                <rect key="frame" x="0.0" y="523.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="545.5" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level two"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Above the heading structure goes in consecutive order as each topic is broken up buy a subtopic and the next heading level." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e5q-l5-3my">
-                                                <rect key="frame" x="0.0" y="556" width="351" height="64.5"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Above the heading structure does not go in consecutive order as each heading level jumps levels and is not in order." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e5q-l5-3my">
+                                                <rect key="frame" x="0.0" y="578" width="351" height="64.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Good Heading Structure" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2gK-f2-Yiu">
-                                                <rect key="frame" x="0.0" y="632.5" width="351" height="31.5"/>
+                                                <rect key="frame" x="0.0" y="654.5" width="351" height="31.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&lt;h1&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Svf-D1-xYl">
-                                                <rect key="frame" x="0.0" y="676" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="698" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level one"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    &lt;h2&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="u5d-J4-wu0">
-                                                <rect key="frame" x="0.0" y="708.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="730.5" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level two"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    &lt;h2&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dlH-Bb-r05">
-                                                <rect key="frame" x="0.0" y="741" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="763" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level two"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="        &lt;h3&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X8k-6U-VEj">
-                                                <rect key="frame" x="0.0" y="773.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="795.5" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level three"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    &lt;h2&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wxe-5y-Vr7">
-                                                <rect key="frame" x="0.0" y="806" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="828" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level two"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="        &lt;h3&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vdj-M2-Ezr">
-                                                <rect key="frame" x="0.0" y="838.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="860.5" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level three"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="            &lt;h4&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wiu-LQ-1JO">
-                                                <rect key="frame" x="0.0" y="871" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="893" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level four"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    &lt;h2&gt;" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FR3-v5-EiR">
-                                                <rect key="frame" x="0.0" y="903.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="925.5" width="351" height="20.5"/>
                                                 <accessibility key="accessibilityConfiguration" label="Heading level two"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Above the heading structure goes in consecutive order as each topic is broken up buy a subtopic and the next heading level." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IDg-4g-SzV">
-                                                <rect key="frame" x="0.0" y="936" width="351" height="64.5"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Above the heading structure goes in consecutive order as each topic is broken up by a subtopic and the next heading level." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IDg-4g-SzV">
+                                                <rect key="frame" x="0.0" y="958" width="351" height="64.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -500,84 +500,84 @@
                                 <rect key="frame" x="0.0" y="64" width="375" height="603"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="top" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="bX3-WU-252">
-                                        <rect key="frame" x="8" y="8" width="359" height="1554.5"/>
+                                        <rect key="frame" x="8" y="8" width="359" height="1840.5"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Why is Color Contrast Important?" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5ao-5o-xoc">
-                                                <rect key="frame" x="0.0" y="0.0" width="224" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="224" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qaF-pi-FZG">
-                                                <rect key="frame" x="0.0" y="120.5" width="351.5" height="108.5"/>
-                                                <string key="text">Color contrast is important becuase you want your users to be able to see your content. According to WCAG the miniumun amount of color contrast you should have between text and background is 4.5:1</string>
+                                                <rect key="frame" x="0.0" y="142.5" width="356" height="130.5"/>
+                                                <string key="text">Color contrast is significant because you want your users to be able to see your content. According to WCAG the minimum amount of color contrast you should have between text and background is 4.5:1</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N9Z-kM-FvF">
-                                                <rect key="frame" x="0.0" y="241" width="359" height="108.5"/>
-                                                <string key="text">Below are examples of Insuffcient color contrast. It is important to check for suffiecent color contrast. There are many tools available to check for color contrast.</string>
+                                                <rect key="frame" x="0.0" y="285" width="359" height="130.5"/>
+                                                <string key="text">Below are examples of insufficient color contrast. Checking for sufficient color contrast is essential. There are many tools available to check for color contrast. Use your favorite search engine and find a color contrast tool that works for you. </string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Insuffcient Color Contrast " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ejt-Qa-gab">
-                                                <rect key="frame" x="0.0" y="361.5" width="292" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="427.5" width="292" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Insuffcient Contrast One" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2ak-qs-kV3">
-                                                <rect key="frame" x="0.0" y="482" width="273" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="570" width="273" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.50569661460000004" green="0.50569661460000004" blue="0.50569661460000004" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Insuffcient Contrast Two" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kmv-ak-joT">
-                                                <rect key="frame" x="0.0" y="602.5" width="272" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="712.5" width="272" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.62445746530000001" green="0.62445746530000001" blue="0.62445746530000001" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Insuffcient Contrast Three" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Ed-Gp-sge">
-                                                <rect key="frame" x="0.0" y="723" width="291" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="855" width="291" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.78276909719999999" green="0.78276909719999999" blue="0.78276909719999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Insuffcient Contrast Four" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vrI-d0-QBv">
-                                                <rect key="frame" x="0.0" y="843.5" width="276" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="997.5" width="276" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.89854600699999998" green="0.89854600699999998" blue="0.89854600699999998" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Suffcient Color Contrast " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sdl-Op-vej">
-                                                <rect key="frame" x="0.0" y="964" width="275.5" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="1140" width="275.5" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Suffcient Contrast One" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lc1-HV-CSA">
-                                                <rect key="frame" x="0.0" y="1084.5" width="256" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="1282.5" width="256" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Suffcient Contrast Two" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lf6-mj-rGs">
-                                                <rect key="frame" x="0.0" y="1205" width="255" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="1425" width="255" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.1940646701" green="0.1940646701" blue="0.1940646701" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Suffcient Contrast Three" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QCH-wH-8f3">
-                                                <rect key="frame" x="0.0" y="1325.5" width="274" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="1567.5" width="274" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.35167100690000003" green="0.35167100690000003" blue="0.35167100690000003" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Suffcient Contrast Four" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kPf-7J-iEQ">
-                                                <rect key="frame" x="0.0" y="1446" width="259" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="1710" width="259" height="130.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="textColor" red="0.25652320899999997" green="0.1215563578" blue="0.91867870090000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -636,7 +636,7 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MHF-Zm-SrM">
                                                 <rect key="frame" x="0.0" y="43.5" width="359" height="20.5"/>
-                                                <string key="text">Using color to denote meaning can cause issues for you user. Think of a user who is Red-Green color Blind. Your app has a quiz that will show you the correct answer.</string>
+                                                <string key="text">Using color to denote meaning can cause issues for your user. Think of a user who is Red-Green color Blind. Your app has a quiz that will show you the correct answer.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -647,7 +647,7 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Below is an example question where color is used to  show the correct answer" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TxB-Rb-Vcm">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Below is an example question where color is used to show the correct answer." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TxB-Rb-Vcm">
                                                 <rect key="frame" x="0.0" y="119.5" width="359" height="42.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
@@ -691,7 +691,7 @@
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cxI-xP-Vz4">
                                                 <rect key="frame" x="0.0" y="371" width="359" height="20.5"/>
-                                                <string key="text">In the above example the correct and wrong answers are dentoted by the change in color of text. We cannot denote meaning to our users soley using color.</string>
+                                                <string key="text">In the above example, the colors red and green indicate incorrect and correct by the change in color of text. We cannot denote meaning to our users solely using color.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -702,7 +702,7 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Below is an example question where color is used to  show the correct answer" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cTJ-zP-Ohc">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Below is an example question where color is used to show the correct answer." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cTJ-zP-Ohc">
                                                 <rect key="frame" x="0.0" y="447" width="359" height="42.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
