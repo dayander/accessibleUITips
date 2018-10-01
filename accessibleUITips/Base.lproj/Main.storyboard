@@ -805,7 +805,7 @@
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mBq-og-LlU">
                                                 <rect key="frame" x="0.0" y="816.5" width="359" height="20.5"/>
-                                                <string key="text">In appropriate use of color example, we are still changing the color of the text, but now we also have an image with proper alternative text to let all users know which answer is correct and which answers are wrong.</string>
+                                                <string key="text">With the appropriate use of color example, we are still changing the color of the text, but now we also have an image with proper alternative text to let all users know which answer is correct and which answers are wrong.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -893,7 +893,7 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fXv-WA-nas">
                                                 <rect key="frame" x="0.0" y="43.5" width="359" height="64.5"/>
-                                                <string key="text">Descriptive link text is important becuase it gives the user context to where the link is taking them. It also helps users to scan.</string>
+                                                <string key="text">Descriptive link text is relevant because it gives the user context to where the link is taking them. It also helps users to scan.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1124,7 +1124,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="MHV-MP-Tqh">
-                                        <rect key="frame" x="12" y="12" width="351" height="1090.5"/>
+                                        <rect key="frame" x="12" y="12" width="351" height="1068.5"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="249" verticalCompressionResistancePriority="748" text="Why is Keyboard Accessibility Important?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="l9I-yN-NMf">
                                                 <rect key="frame" x="0.0" y="0.0" width="351" height="63.5"/>
@@ -1133,14 +1133,14 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mng-5Z-JJt">
-                                                <rect key="frame" x="0.0" y="75.5" width="351" height="130.5"/>
-                                                <string key="text">Keyboard accessibility is important becuase some users only use the keyboard to navaigate webpages and applications. The order in which a user can go through your product needs to be semantic and make sense.</string>
+                                                <rect key="frame" x="0.0" y="75.5" width="351" height="108.5"/>
+                                                <string key="text">Keyboard accessibility is important because some users only use the keyboard to navigate web pages and applications. The order in which a user can go through your product needs to be semantic and make sense.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="751" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vyt-de-bFd">
-                                                <rect key="frame" x="0.0" y="218" width="351" height="55"/>
+                                                <rect key="frame" x="0.0" y="196" width="351" height="55"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="0LW-Uz-hxT"/>
                                                 </constraints>
@@ -1151,33 +1151,33 @@
                                                 </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Bad Example of Keyboard Accessibility" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zrv-1i-5Ux">
-                                                <rect key="frame" x="0.0" y="285" width="351" height="63.5"/>
+                                                <rect key="frame" x="0.0" y="263" width="351" height="63.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cqY-k5-6ca">
-                                                <rect key="frame" x="0.0" y="360.5" width="351" height="86.5"/>
+                                                <rect key="frame" x="0.0" y="338.5" width="351" height="86.5"/>
                                                 <string key="text">Although you are viewing this not on a computer, using Voiceover will give you an idea of how keyboard accessibility can be messed up.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R3y-jS-f7L">
-                                                <rect key="frame" x="0.0" y="459" width="351" height="86.5"/>
-                                                <string key="text">At this point, triple click home to turn on Voiceover, or click the link above that will explain how to turn on the Voiceover short cut.</string>
+                                                <rect key="frame" x="0.0" y="437" width="351" height="86.5"/>
+                                                <string key="text">At this point, triple click home to turn on Voiceover, or click the link above that will explain how to turn on the Voiceover shortcut.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Swipe right on your screen to move to the next element, or left to move to the previous element." lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tDd-sR-7KY">
-                                                <rect key="frame" x="0.0" y="557.5" width="351" height="64.5"/>
+                                                <rect key="frame" x="0.0" y="535.5" width="351" height="64.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FT6-Gd-QoY">
-                                                <rect key="frame" x="0.0" y="634" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="612" width="351" height="20.5"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="One" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JMA-3j-WXN">
                                                         <rect key="frame" x="0.0" y="0.0" width="306" height="20.5"/>
@@ -1194,7 +1194,7 @@
                                                 </subviews>
                                             </stackView>
                                             <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="X2i-bn-hIf">
-                                                <rect key="frame" x="0.0" y="666.5" width="351" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="644.5" width="351" height="20.5"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="Two" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aaP-4G-bCi">
                                                         <rect key="frame" x="0.0" y="0.0" width="316" height="20.5"/>
@@ -1211,20 +1211,20 @@
                                                 </subviews>
                                             </stackView>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="747" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="brt-Q3-WBy">
-                                                <rect key="frame" x="0.0" y="699" width="351" height="108.5"/>
+                                                <rect key="frame" x="0.0" y="677" width="351" height="108.5"/>
                                                 <string key="text">As you can see in the example above, you expect two to be read out before three. As a developer we would need to go back and tell our website or app that we meant for two to be read out before three. </string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="752" text="Good Example of Keyboard Accessibility" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FRV-hF-HYu">
-                                                <rect key="frame" x="0.0" y="819.5" width="351" height="63.5"/>
+                                                <rect key="frame" x="0.0" y="797.5" width="351" height="63.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Bht-O2-s1k">
-                                                <rect key="frame" x="0.0" y="895" width="351" height="75"/>
+                                                <rect key="frame" x="0.0" y="873" width="351" height="75"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="One" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Sp-cH-afy">
                                                         <rect key="frame" x="12" y="12" width="32" height="20.5"/>
@@ -1267,8 +1267,8 @@
                                                 </constraints>
                                             </view>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="747" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zno-bM-hbb">
-                                                <rect key="frame" x="0.0" y="982" width="351" height="108.5"/>
-                                                <string key="text">In this example, we reorder the numbers to make sense in that order. As a developer, its a good habit to check the keyboard accessibility of whatever you're working on by using it with only your keyboard.</string>
+                                                <rect key="frame" x="0.0" y="960" width="351" height="108.5"/>
+                                                <string key="text">In this example, we reorder the numbers to make sense in that order. As a developer, it is a good habit to check the keyboard accessibility of whatever you're working on by using it with only your keyboard.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1328,7 +1328,7 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IKR-99-7aP">
                                                 <rect key="frame" x="0.0" y="75.5" width="359" height="108.5"/>
-                                                <string key="text">Form labels are important because they inform the user what you want from them.  Properly labeling forms is essential to assistive technology. Without proper labeling the input form has no context to the user.</string>
+                                                <string key="text">Form labels are important because they inform the user what you want from them.  Properly labeling forms is essential to assistive technology. Without proper labeling, the input form has no context to the user.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1341,7 +1341,7 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M6M-c4-5Vp">
                                                 <rect key="frame" x="0.0" y="271.5" width="359" height="64.5"/>
-                                                <string key="text">In this example we will need to use Voiceover again. Triple click home to turn on Voiceover a vist the link just below to learn how.</string>
+                                                <string key="text">In this example, we will need to use Voiceover again. Triple click home to turn on Voiceover a visit the link just below to learn how.</string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1377,7 +1377,7 @@
                                                     </textField>
                                                 </subviews>
                                             </stackView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="As you can hear, the text input field has no label assciated with it. " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iqp-dL-yA6">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="As you can hear, the text input field has no label associated with it. " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iqp-dL-yA6">
                                                 <rect key="frame" x="0.0" y="515" width="359" height="42.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
@@ -1410,7 +1410,7 @@
                                                     </textField>
                                                 </subviews>
                                             </stackView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Adding the label to the form input gives asstive technology contet around what information you want from the user." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HwV-aR-3rt">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Adding the label to the form input gives assistive technology content around what information you want from the user." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HwV-aR-3rt">
                                                 <rect key="frame" x="0.0" y="745" width="359" height="64.5"/>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
@@ -1468,7 +1468,7 @@
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cgS-Qb-jtJ">
                                                 <rect key="frame" x="0.0" y="75.5" width="359" height="86.5"/>
-                                                <string key="text">Alternative text is important for images. It allows users to get the intended meaning of the image without seeing it, or trying to make out exactly what you mean by the image. </string>
+                                                <string key="text">Alternative text is important for images. It allows users to get the intended meaning of the image without seeing it or trying to make out exactly what you mean by the picture. </string>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -1827,6 +1827,9 @@
                                                 </constraints>
                                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                 <state key="normal" title="Learn To Turn On Voiceover"/>
+                                                <connections>
+                                                    <segue destination="QeR-GK-XuU" kind="presentation" id="VDc-9M-e3d"/>
+                                                </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Example of Using Capitols" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TTS-B4-f93">
                                                 <rect key="frame" x="0.0" y="307.5" width="359" height="31.5"/>
@@ -1994,7 +1997,7 @@
                                                                             <subviews>
                                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1ij-dp-RhW">
                                                                                     <rect key="frame" x="0.0" y="0.0" width="179.5" height="28"/>
-                                                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                                                    <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                                                                     <nil key="textColor"/>
                                                                                     <nil key="highlightedColor"/>
                                                                                 </label>
@@ -2243,7 +2246,7 @@
         <image name="wrong" width="87" height="88"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="88y-9J-apc"/>
+        <segue reference="VDc-9M-e3d"/>
         <segue reference="jp4-zG-qHP"/>
         <segue reference="ckO-GH-fHZ"/>
     </inferredMetricsTieBreakers>

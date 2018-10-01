@@ -107,13 +107,6 @@
 		124465BE21500EE300B3EF3C = {
 			isa = PBXGroup;
 			children = (
-				12018982215BFBC7007E5E8B /* WeatherTableViewCell.swift */,
-				12B3F28D215707050080C9A4 /* WhereYouWantViewController.swift */,
-				12B3F28F215711B70080C9A4 /* TurnOnVoiceOverViewController.swift */,
-				12B3F28B2156F9700080C9A4 /* spamViewController.swift */,
-				12018988215D2717007E5E8B /* KeyboardA11yViewController.swift */,
-				1201898A215D3E0B007E5E8B /* FormsViewController.swift */,
-				1201898C215D4133007E5E8B /* alternativeTextViewController.swift */,
 				124465C921500EE300B3EF3C /* accessibleUITips */,
 				124465DE21500EE500B3EF3C /* accessibleUITipsTests */,
 				124465E921500EE500B3EF3C /* accessibleUITipsUITests */,
@@ -136,6 +129,13 @@
 			children = (
 				124465CA21500EE300B3EF3C /* AppDelegate.swift */,
 				124465CC21500EE300B3EF3C /* ViewController.swift */,
+				12018982215BFBC7007E5E8B /* WeatherTableViewCell.swift */,
+				12B3F28D215707050080C9A4 /* WhereYouWantViewController.swift */,
+				12B3F28F215711B70080C9A4 /* TurnOnVoiceOverViewController.swift */,
+				12B3F28B2156F9700080C9A4 /* spamViewController.swift */,
+				12018988215D2717007E5E8B /* KeyboardA11yViewController.swift */,
+				1201898A215D3E0B007E5E8B /* FormsViewController.swift */,
+				1201898C215D4133007E5E8B /* alternativeTextViewController.swift */,
 				1253C8F82155D8B3004F3ADC /* wcagWebViewController.swift */,
 				124465CE21500EE300B3EF3C /* Main.storyboard */,
 				1201898E215D46B3007E5E8B /* AllCapsViewController.swift */,
